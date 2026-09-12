@@ -13,7 +13,7 @@ print("========================================")
 print("O conjunto universo S contém os elementos:")
 print("S =", S)
 
-print("\nTodos os elementos dos conjuntos A e B")
+print("Todos os elementos dos conjuntos A e B")
 print("devem pertencer ao conjunto universo S.")
 
 # ------------------------------------------
