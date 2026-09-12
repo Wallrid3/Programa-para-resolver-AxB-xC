@@ -49,12 +49,6 @@ B = ler_conjunto("B")
 # C = {x | x ∈ Z e 2 <= x < 5}
 C = {x for x in S if 2 <= x < 5}
 
-
-# Complemento
-def complemento(conjunto):
-    return S - conjunto
-
-
 # Produto cartesiano
 # A × B = {(a,b) | a ∈ A e b ∈ B}
 def produto_cartesiano(A, B):
