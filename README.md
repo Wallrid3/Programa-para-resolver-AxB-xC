@@ -15,6 +15,6 @@ Sobre
 
 A criação foi feita de forma a não ficar limitada apenas aos valores apresentados no exercício.
 
-O conjunto universo S permanece fixo, conforme definido, assim como o conjunto C. Já os conjuntos A e B podem receber diferentes que esteja dentro do conjunto S e sendo aoenas INTEIROS, permitindo que o código seja utilizado para resolver outras situações que atendam às mesmas condições do problema.
+O conjunto universo S permanece fixo, conforme definido, assim como o conjunto C. Já os conjuntos A e B podem receber diferentes que esteja dentro do conjunto S e sendo apenas INTEIROS, permitindo que o código seja utilizado para resolver outras situações que atendam às mesmas condições do problema.
 
 Assim, o código não realiza apenas a resolucao específica do exercIcio, mas também permite testar diferentes possibilidades de valores para A e B, tornando a solução mais flexível.
