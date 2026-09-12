@@ -50,10 +50,6 @@ B = ler_conjunto("B")
 C = {x for x in S if 2 <= x < 5}
 
 
-# ------------------------------------------
-# Funções
-# ------------------------------------------
-
 # Complemento
 def complemento(conjunto):
     return S - conjunto
